@@ -1,0 +1,187 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\amdas\\Source\\Repos\\amitgithubdas\\hackernewsapi\\BestStories.ResourceAccess.Implementation\\BestStories.ResourceAccess.Implementation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\amdas\\Source\\Repos\\amitgithubdas\\hackernewsapi\\BestStories.Entities\\BestStories.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amdas\\Source\\Repos\\amitgithubdas\\hackernewsapi\\BestStories.Entities\\BestStories.Entities.csproj",
+        "projectName": "BestStories.Entities",
+        "projectPath": "C:\\Users\\amdas\\Source\\Repos\\amitgithubdas\\hackernewsapi\\BestStories.Entities\\BestStories.Entities.csproj",
+        "packagesPath": "C:\\Users\\amdas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amdas\\Source\\Repos\\amitgithubdas\\hackernewsapi\\BestStories.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amdas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\amdas\\Source\\Repos\\amitgithubdas\\hackernewsapi\\BestStories.ResourceAccess.Implementation\\BestStories.ResourceAccess.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amdas\\Source\\Repos\\amitgithubdas\\hackernewsapi\\BestStories.ResourceAccess.Implementation\\BestStories.ResourceAccess.Implementation.csproj",
+        "projectName": "BestStories.ResourceAccess.Implementation",
+        "projectPath": "C:\\Users\\amdas\\Source\\Repos\\amitgithubdas\\hackernewsapi\\BestStories.ResourceAccess.Implementation\\BestStories.ResourceAccess.Implementation.csproj",
+        "packagesPath": "C:\\Users\\amdas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amdas\\Source\\Repos\\amitgithubdas\\hackernewsapi\\BestStories.ResourceAccess.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amdas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\amdas\\Source\\Repos\\amitgithubdas\\hackernewsapi\\BestStories.ResourceAccess\\BestStories.ResourceAccess.csproj": {
+                "projectPath": "C:\\Users\\amdas\\Source\\Repos\\amitgithubdas\\hackernewsapi\\BestStories.ResourceAccess\\BestStories.ResourceAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\amdas\\Source\\Repos\\amitgithubdas\\hackernewsapi\\BestStories.ResourceAccess\\BestStories.ResourceAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amdas\\Source\\Repos\\amitgithubdas\\hackernewsapi\\BestStories.ResourceAccess\\BestStories.ResourceAccess.csproj",
+        "projectName": "BestStories.ResourceAccess",
+        "projectPath": "C:\\Users\\amdas\\Source\\Repos\\amitgithubdas\\hackernewsapi\\BestStories.ResourceAccess\\BestStories.ResourceAccess.csproj",
+        "packagesPath": "C:\\Users\\amdas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amdas\\Source\\Repos\\amitgithubdas\\hackernewsapi\\BestStories.ResourceAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amdas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\amdas\\Source\\Repos\\amitgithubdas\\hackernewsapi\\BestStories.Entities\\BestStories.Entities.csproj": {
+                "projectPath": "C:\\Users\\amdas\\Source\\Repos\\amitgithubdas\\hackernewsapi\\BestStories.Entities\\BestStories.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
