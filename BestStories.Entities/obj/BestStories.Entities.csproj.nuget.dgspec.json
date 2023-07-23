@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amdas\\Source\\Repos\\amitgithubdas\\hackernewsapi\\BestStories.Entities\\BestStories.Entities.csproj": {}
+    "C:\\Users\\das_a\\source\\amitgithubdas\\hackernewsapi\\BestStories.Entities\\BestStories.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amdas\\Source\\Repos\\amitgithubdas\\hackernewsapi\\BestStories.Entities\\BestStories.Entities.csproj": {
+    "C:\\Users\\das_a\\source\\amitgithubdas\\hackernewsapi\\BestStories.Entities\\BestStories.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amdas\\Source\\Repos\\amitgithubdas\\hackernewsapi\\BestStories.Entities\\BestStories.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\das_a\\source\\amitgithubdas\\hackernewsapi\\BestStories.Entities\\BestStories.Entities.csproj",
         "projectName": "BestStories.Entities",
-        "projectPath": "C:\\Users\\amdas\\Source\\Repos\\amitgithubdas\\hackernewsapi\\BestStories.Entities\\BestStories.Entities.csproj",
-        "packagesPath": "C:\\Users\\amdas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amdas\\Source\\Repos\\amitgithubdas\\hackernewsapi\\BestStories.Entities\\obj\\",
+        "projectPath": "C:\\Users\\das_a\\source\\amitgithubdas\\hackernewsapi\\BestStories.Entities\\BestStories.Entities.csproj",
+        "packagesPath": "C:\\Users\\das_a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\das_a\\source\\amitgithubdas\\hackernewsapi\\BestStories.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\amdas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\das_a\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

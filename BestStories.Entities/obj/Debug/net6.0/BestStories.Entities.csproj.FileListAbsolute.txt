@@ -22,3 +22,15 @@ C:\Users\amdas\Source\Repos\amitgithubdas\hackernewsapi\BestStories.Entities\obj
 C:\Users\amdas\Source\Repos\amitgithubdas\hackernewsapi\BestStories.Entities\obj\Debug\net6.0\refint\BestStories.Entities.dll
 C:\Users\amdas\Source\Repos\amitgithubdas\hackernewsapi\BestStories.Entities\obj\Debug\net6.0\BestStories.Entities.pdb
 C:\Users\amdas\Source\Repos\amitgithubdas\hackernewsapi\BestStories.Entities\obj\Debug\net6.0\ref\BestStories.Entities.dll
+C:\Users\das_a\source\amitgithubdas\hackernewsapi\BestStories.Entities\bin\Debug\net6.0\BestStories.Entities.deps.json
+C:\Users\das_a\source\amitgithubdas\hackernewsapi\BestStories.Entities\bin\Debug\net6.0\BestStories.Entities.dll
+C:\Users\das_a\source\amitgithubdas\hackernewsapi\BestStories.Entities\bin\Debug\net6.0\BestStories.Entities.pdb
+C:\Users\das_a\source\amitgithubdas\hackernewsapi\BestStories.Entities\obj\Debug\net6.0\BestStories.Entities.csproj.AssemblyReference.cache
+C:\Users\das_a\source\amitgithubdas\hackernewsapi\BestStories.Entities\obj\Debug\net6.0\BestStories.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\das_a\source\amitgithubdas\hackernewsapi\BestStories.Entities\obj\Debug\net6.0\BestStories.Entities.AssemblyInfoInputs.cache
+C:\Users\das_a\source\amitgithubdas\hackernewsapi\BestStories.Entities\obj\Debug\net6.0\BestStories.Entities.AssemblyInfo.cs
+C:\Users\das_a\source\amitgithubdas\hackernewsapi\BestStories.Entities\obj\Debug\net6.0\BestStories.Entities.csproj.CoreCompileInputs.cache
+C:\Users\das_a\source\amitgithubdas\hackernewsapi\BestStories.Entities\obj\Debug\net6.0\BestStories.Entities.dll
+C:\Users\das_a\source\amitgithubdas\hackernewsapi\BestStories.Entities\obj\Debug\net6.0\refint\BestStories.Entities.dll
+C:\Users\das_a\source\amitgithubdas\hackernewsapi\BestStories.Entities\obj\Debug\net6.0\BestStories.Entities.pdb
+C:\Users\das_a\source\amitgithubdas\hackernewsapi\BestStories.Entities\obj\Debug\net6.0\ref\BestStories.Entities.dll

@@ -26,7 +26,11 @@ namespace BestStories.ResourceAccess.Implementation
             }
             
         }
-
+        /// <summary>
+        /// GetStoryAsync
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         public Task<Entity?> GetStoryAsync(int id)
         {
             return this.memoryCache.GetOrCreateAsync(id, async e =>

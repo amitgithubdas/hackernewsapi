@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BestStories.ResourceAccess.Implementation"
   ],
-  "SelectedNode": "\\HackerNewsAPI.sln",
+  "SelectedNode": "\\BestStories.ResourceAccess.Implementation\\HackerNewsRepository.cs",
   "PreviewInSolutionExplorer": false
 }
